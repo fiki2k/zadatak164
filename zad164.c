@@ -1,7 +1,6 @@
 // Program treba naci duljinu polja pomocu pointera.
 
 #include<stdio.h>
-#include<conio.h>
 
 int string_ln(char*);
 
